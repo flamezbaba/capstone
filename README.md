@@ -16,13 +16,13 @@ The capstone will build upon the knowledge you have gained in the course in orde
 https://rinkeby.etherscan.io/address/0x328f1d9F170d490035f57ffcf08146bb8166f621
 
 ## Contract CapStoneToken
-https://rinkeby.etherscan.io/address/0xf47757B28E84035Ba986b39fEAd12C2A95e6CF05
+https://rinkeby.etherscan.io/address/0xD64E0f1dE69f48cFe53dF8e6DB8A005C7A444EF4
 
 ## Contract SquareVerifier
-https://rinkeby.etherscan.io/address/0xAFB4Cd1E6021e46BF9f23Bbb858361D03C2e5D98
+https://rinkeby.etherscan.io/address/0xf8e19162B98B8941fA529905b907895f589D794c
 
 ## Contract SolnSquareVerifier
-https://rinkeby.etherscan.io/address/0x36510D51003e80406263150df7cAe9CbeCA60F24
+https://rinkeby.etherscan.io/address/0x7ECA25654C1EA6943Dc9836c6228Ce5B02A89776
 
 ## OpenSea MarketPlace Storefront
 https://testnets.opensea.io/0x328f1d9F170d490035f57ffcf08146bb8166f621
@@ -31,33 +31,33 @@ https://testnets.opensea.io/0x328f1d9F170d490035f57ffcf08146bb8166f621
 
 ```bash
 
-   Deploying 'CapStoneToken'
+   Replacing 'CapStoneToken'
    -------------------------
-   > transaction hash:    0x693f33d42a0b10d237ea60a0603ceeef17ea0e72042e1c86afa5f0260f4c58a8
-   > Blocks: 2            Seconds: 21
-   > contract address:    0xf47757B28E84035Ba986b39fEAd12C2A95e6CF05
-   > block number:        9679640
-   > block timestamp:     1637477708
+   > transaction hash:    0x0a0418ebab8fcdbff6d24079a7b0acd7db798f87973536e93bc336612a379efd
+   > Blocks: 2            Seconds: 25
+   > contract address:    0xD64E0f1dE69f48cFe53dF8e6DB8A005C7A444EF4
+   > block number:        9683171
+   > block timestamp:     1637530683
    > account:             0x328f1d9F170d490035f57ffcf08146bb8166f621
-   > balance:             18.655637795932156068
-   > gas used:            2852090 (0x2b84fa)
-   > gas price:           1.00000001 gwei
+   > balance:             8.645391032837011934
+   > gas used:            2878220 (0x2beb0c)
+   > gas price:           1.000000009 gwei
    > value sent:          0 ETH
-   > total cost:          0.0028520900285209 ETH
+   > total cost:          0.00287822002590398 ETH
 
    Pausing for 1 confirmations...
    ------------------------------
-   > confirmation number: 1 (block: 9679641)
+   > confirmation number: 1 (block: 9683172)
 
-   Deploying 'SquareVerifier'
+   Replacing 'SquareVerifier'
    --------------------------
-   > transaction hash:    0x6791c4420994f39a9a17a319a4c26c5f17fa08b7110f119eb19b452c8bdf4ce2
-   > Blocks: 2            Seconds: 27
-   > contract address:    0xAFB4Cd1E6021e46BF9f23Bbb858361D03C2e5D98
-   > block number:        9679643
-   > block timestamp:     1637477753
+   > transaction hash:    0x28e06c61cbc5137e1eb08dcdccf3370c593c63948bd9c1fa565d93b31bd43309
+   > Blocks: 2            Seconds: 30
+   > contract address:    0xf8e19162B98B8941fA529905b907895f589D794c
+   > block number:        9683174
+   > block timestamp:     1637530728
    > account:             0x328f1d9F170d490035f57ffcf08146bb8166f621
-   > balance:             18.654670344923449009
+   > balance:             8.644423581828304875
    > gas used:            967451 (0xec31b)
    > gas price:           1.000000009 gwei
    > value sent:          0 ETH
@@ -65,36 +65,36 @@ https://testnets.opensea.io/0x328f1d9F170d490035f57ffcf08146bb8166f621
 
    Pausing for 1 confirmations...
    ------------------------------
-   > confirmation number: 1 (block: 9679644)
+   > confirmation number: 1 (block: 9683175)
 
-   Deploying 'SolnSquareVerifier'
+   Replacing 'SolnSquareVerifier'
    ------------------------------
-   > transaction hash:    0x455bc66235bbc387c05ea8b2bc065f22dc7e69f81276e6b14a2fdb7a807a9442
-   > Blocks: 3            Seconds: 37
-   > contract address:    0x36510D51003e80406263150df7cAe9CbeCA60F24
-   > block number:        9679647
-   > block timestamp:     1637477813
+   > transaction hash:    0x94013aea65389aa097a627d574f3495e11a7aa32be1556bb5391f0e41c41d0e5
+   > Blocks: 2            Seconds: 26
+   > contract address:    0x7ECA25654C1EA6943Dc9836c6228Ce5B02A89776
+   > block number:        9683177
+   > block timestamp:     1637530773
    > account:             0x328f1d9F170d490035f57ffcf08146bb8166f621
-   > balance:             18.651031815890702248
-   > gas used:            3638529 (0x378501)
+   > balance:             8.640758944795323142
+   > gas used:            3664637 (0x37eafd)
    > gas price:           1.000000009 gwei
    > value sent:          0 ETH
-   > total cost:          0.003638529032746761 ETH
+   > total cost:          0.003664637032981733 ETH
 
    Pausing for 1 confirmations...
    ------------------------------
-   > confirmation number: 1 (block: 9679648)
+   > confirmation number: 1 (block: 9683178)
 
    > Saving migration to chain.
    > Saving artifacts
    -------------------------------------
-   > Total cost:     0.00745807006997472 ETH
+   > Total cost:     0.007510308067592772 ETH
 
 
 Summary
 =======
 > Total deployments:   4
-> Final cost:          0.007684607072013553 ETH
+> Final cost:          0.007736845069631605 ETH
 
 ```
 
