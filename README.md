@@ -16,13 +16,13 @@ The capstone will build upon the knowledge you have gained in the course in orde
 https://rinkeby.etherscan.io/address/0x328f1d9F170d490035f57ffcf08146bb8166f621
 
 ## Contract CapStoneToken
-https://rinkeby.etherscan.io/address/0xD64E0f1dE69f48cFe53dF8e6DB8A005C7A444EF4
+https://rinkeby.etherscan.io/address/0xc66eCF4418Cc491f3E81856E013E0ec82Ce783D9
 
 ## Contract SquareVerifier
-https://rinkeby.etherscan.io/address/0xf8e19162B98B8941fA529905b907895f589D794c
+https://rinkeby.etherscan.io/address/0xf63877E3EddB7F70b1255D24C6a0BfA9565E5AA3
 
 ## Contract SolnSquareVerifier
-https://rinkeby.etherscan.io/address/0x7ECA25654C1EA6943Dc9836c6228Ce5B02A89776
+https://rinkeby.etherscan.io/address/0x4BBB8CDb677F903a35d283C4BF1950d7f65B535a
 
 ## OpenSea MarketPlace Storefront
 https://testnets.opensea.io/0x328f1d9F170d490035f57ffcf08146bb8166f621
@@ -673,7 +673,7 @@ Summary
       "stateMutability": "nonpayable",
       "type": "function"
     }
-  ]
+  ],
 
 # Project Resources
 
